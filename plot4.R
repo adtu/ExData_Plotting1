@@ -1,4 +1,8 @@
-## Plot 4: Daily Global Active Power (kilowatts)
+## Plot 4: 
+####   Daily Global Active Power
+####   Daily Voltage
+####   Daily Energy sub metering
+####   Daily Global reactive power 
 
 library(sqldf)
 hpcfile <- file("./data/household_power_consumption.txt")
